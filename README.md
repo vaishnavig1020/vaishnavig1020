@@ -13,7 +13,7 @@ Always learning. Always improving. 🚀
 
 - 💬 Ask me about **Python, SQL, Data Analysis, EDA**
 - 📫 Reach me at **vaishnavig1020@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK-HERE
+- 💼 LinkedIn: https://www.linkedin.com/in/vaishnavi-gupta-648885272/
 -  🌐 Portfolio: https://vaishnavig1020.github.io
   
 ---
